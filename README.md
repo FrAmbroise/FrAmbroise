@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ambroise Piétu
+ # 👋 Hi, I’m Ambroise Piétu
 - 👀 I’m interested in world history, physics and puzzles
 - 🌱 I’m currently learning japanese
 - :test_tube: I learned the basics of *python*, *html*, *css*, *javascript*, *java*, *php*, *SQL* and *C#*
